@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 Class-Path:
+\project-maven-master\lib\desktop-game-engine.jar
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Main-Class: com.javarush.games.racer.RacerGame
